@@ -30,7 +30,7 @@ For each pair, the `key` is followed by `an equals sign (=)` character and then 
 
 Query strings are useful for passing data that does not require the user to take action.
 
-`Using Form Data`
+**Using Form Data**
 
 Form data comes from a form that has been sent as a POST request to a route. So instead of seeing the data in the URL (except for cases when the form is submitted with a GET request), the form data will be passed to the app behind the scenes. Even though you cannot easily see the form data that gets passed, your app can still read it.
 
